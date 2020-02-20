@@ -56,17 +56,37 @@ http://underscorejs.org
 
 Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects. It’s the answer to the question: “If I sit down in front of a blank HTML page, and want to start being productive immediately, what do I need?” … and the tie to go along with jQuery's tux and Backbone's suspenders.
 
-
 ### TWO JS
 https://two.js.org
 
 Two.js is a two-dimensional drawing api geared towards modern web browsers. It is renderer agnostic enabling the same api to draw in multiple contexts: svg, canvas, and webgl.
+
+### Draggable JS
+https://shopify.github.io/draggable/examples/
+Draggable is a modern drag and drop JavaScript library. Lightweight, modular and accessible.
+
 
 ## WebGL Effects Libraries
 
 ### Blotter
 https://blotter.js.org/
 A JavaScript API for drawing unconventional text effects on the web.
+
+### PTS JS
+https://ptsjs.org
+
+Pts is lightweight and modular. Written in typescript, it comes with many useful algorithms for visualization and creative coding. Its friendly API supports both quick prototyping and bigger projects.
+
+## Animation 
+
+### Anime JS
+https://animejs.com
+Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API.
+It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
+
+### Emerge JS
+https://xtianmiller.github.io/emergence.js/
+Lightweight, high-performance JS plugin for detecting and manipulating elements in the browser.
 
 
 
